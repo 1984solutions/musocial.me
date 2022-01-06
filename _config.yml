@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: musocial
 logo: /assets/img/logo.png
-description: "The minimalist feed reader / aggregator"
+description: "The minimalist feed reader, feed aggregator and podcast client"
 baseurl: ""
 github:
   repository_url: https://github.com/ibz/musocial
