@@ -1,8 +1,12 @@
 # musocial
 
+`musocial` is a minimalist feed reader, feed aggregator and podcast client.
+
+## Features
+
 * Simple web interface with a minimalist HN-like design
-* Optionally [multi-user](/users)
-* Search podcasts from [Podcast Index](https://podcastindex.org) and subscribe to their feeds
+* **Optionally** [multi-user](/users)
+* Search podcasts from [Podcast Index](https://podcastindex.org)
 * Fever-like [API](/api)
 * Simple code written in Python, using Flask and SQLite (hidden behind SQLAlchemy)
-* Can be run locally (`venv`) or inside a Docker container
+* Easy to run locally (in a `venv`) or inside a Docker container
