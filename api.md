@@ -1,4 +1,4 @@
-# musocial API
+# API
 
 [Fever](https://feedafever.com/api)-like api, tested with [`canard`](https://github.com/mrusme/canard).
 
