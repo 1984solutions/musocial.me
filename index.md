@@ -10,4 +10,4 @@
 * Search podcasts from [Podcast Index](https://podcastindex.org)
 * Fever-like [API](/api)
 * Simple code written in Python, using Flask and SQLite (hidden behind SQLAlchemy)
-* Easy to run locally (in a `venv`) or inside a Docker container
+* Pre-built Docker image that you can easily run without messing up your system
