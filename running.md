@@ -10,4 +10,4 @@ The easiest way to run **musocial** if you have Docker installed is the followin
    `docker run -p 8448:80 -v $(pwd)/musocial-instance:/instance --name musocial --rm -t ghcr.io/ibz/musocial:v0.1.1-buster`
 3. Access musocial using your web browser.
 
-   http://localhost:8448
+   [localhost:8448](http://localhost:8448)
