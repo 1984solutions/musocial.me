@@ -8,7 +8,7 @@
 * **Optionally** [multi-user](/users)
 * **Decentralized** [karma](/karma)
 * **Clean** code written in Python, using Flask and SQLite (hidden behind SQLAlchemy)
-* Pre-built Docker image that you can **easily** run without messing up your system
+* Pre-built Docker images that you can **easily** [run](/running) on your laptop, home server or VPS
 
 ## Integrations
 
