@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
-title: musocial
+title: usocial
 logo: /assets/img/logo.png
 description: "The minimalist feed reader, feed aggregator and podcast client"
 baseurl: ""
 github:
-  repository_url: https://github.com/ibz/musocial
-  repository_nwo: ibz/musocial
+  repository_url: https://github.com/ibz/usocial
+  repository_nwo: ibz/usocial

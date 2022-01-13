@@ -1,6 +1,6 @@
 # Users
 
-You can run **musocial** on your own machine or home server and totally forget about passwords and logging in, yet you can still use it in a multi-user setup if you wish!
+You can run **usocial** on your own machine or home server and totally forget about passwords and logging in, yet you can still use it in a multi-user setup if you wish!
 
 ## How this works
 

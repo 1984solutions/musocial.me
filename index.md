@@ -1,6 +1,6 @@
-# musocial
+# usocial
 
-**musocial** is a minimalist feed reader / aggregator and podcast client.
+**usocial** is a minimalist feed reader / aggregator and podcast client.
 
 ## Features
 
