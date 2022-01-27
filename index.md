@@ -13,5 +13,5 @@
 ## Integrations
 
 * Search podcasts from [Podcast Index](https://podcastindex.org)
-* Support for the [`podcast:value`](https://github.com/Podcastindex-org/podcast-namespace/blob/main/value/value.md) tag, sending Bitcoin Lightning Network payments to podcast creators
+* Support for the [`podcast:value`](https://github.com/Podcastindex-org/podcast-namespace/blob/main/value/value.md) tag, sending Bitcoin payments to podcast creators over the Lightning Network
 * Fever-like [API](/api)
