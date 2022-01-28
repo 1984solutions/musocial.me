@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: usocial
-logo: /assets/img/logo.png
+logo: /assets/img/logo.svg
 description: "The minimalist feed reader, feed aggregator and podcast client"
 baseurl: ""
 github:
