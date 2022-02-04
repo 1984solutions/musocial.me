@@ -1,6 +1,6 @@
 # usocial
 
-The minimalist self-hosted feed reader and podcast client for your personal server. With Lightning Network support.
+The podcast client and feed reader for your personal server. With Lightning Network support.
 
 ## Features
 
