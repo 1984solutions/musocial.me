@@ -1,10 +1,10 @@
 # usocial
 
-**usocial** is a minimalist feed reader / aggregator and podcast client.
+**usocial** is the minimalist self-hosted feed reader and podcast client for your personal server. With Lightning Network support.
 
 ## Features
 
-* **Simple** web interface with a minimalist HN-like design
+* **Simple** web interface with minimalist HN-like design
 * **Optionally** [multi-user](/users)
 * **Decentralized** [karma](/karma)
 * **Clean** code written in Python, using Flask and SQLite (hidden behind SQLAlchemy)
