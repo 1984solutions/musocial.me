@@ -4,10 +4,10 @@
 
 ## Features
 
-* **Simple** web interface with minimalist HN-like design
+* **Simple** [interface](## "minimalist HN-like design")
 * **Optionally** [multi-user](/users)
 * **Decentralized** [karma](/karma)
-* **Clean** code written in Python, using Flask and SQLite (hidden behind SQLAlchemy)
+* **Clean** [code](## "Python / Flask / SQLite")
 * Pre-built Docker images that you can **easily** [run](/running) on your laptop, home server or VPS
 
 ## Integrations
