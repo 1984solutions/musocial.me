@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: usocial
 logo: /assets/img/logo.svg
-description: "Read. Listen. Pay back. The minimalist self-hosted feed reader and podcast client for your personal server. With Lightning Network support."
+description: "Read. Listen. Pay back."
 baseurl: ""
 github:
   repository_url: https://github.com/ibz/usocial
