@@ -14,7 +14,7 @@ layout: default
 * Lots of fixes and UI improvements
 
 <h1 id="v0.1.0">v0.1.0 (Runs on ARMs)</h1>
-<small>2022-01-13</small>
+<small>2022-01-12</small>
 
 This is the first time **usocial** runs on **an ARM-based machine** (my [Umbrel](https://getumbrel.com/) node, running on a Raspberry Pi 4).
 
