@@ -6,10 +6,18 @@ layout: default
 <h1 id="v0.1.2">v0.1.2</h1>
 <small>2022-02-09</small>
 
-* A couple of bugfixes in the way we deal with podcast feeds.
+This is the first public release on the [Umbrel](http://getumbrel.com) app store.
+
+Changes:
+
+* A couple of bugfixes in the way we deal with podcast feeds
 
 <h1 id="v0.1.1">v0.1.1 (Booster)</h1>
 <small>2022-02-04</small>
+
+This is the first public release on the [Citadel](https://github.com/runcitadel) app store.
+
+Changes:
 
 * Send boosts and streaming contributions to podcast creators (that use the `podcast:value` tag)
 * Save play position (per-episode!), so you always listen from where you left off
