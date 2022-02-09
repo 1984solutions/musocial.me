@@ -1,5 +1,13 @@
 # Running
 
-**usocial** is distributed as an app in the [Umbrel](http://getumbrel.com/) and [Citadel](https://github.com/runcitadel) app stores. This is the recommended way to run it.
+The easiest way to run **usocial** if you have Docker installed is the following:
 
-If you want to run it outside these systems there are many ways to do it. See the [GitHub repo](https://github.com/ibz/usocial) for more details.
+1. Create an "instance" directory which will store your database and config file
+
+   `mkdir usocial-instance`
+1. Run a pre-built Docker image, forwarding port 8448 (you can change that to anything you want) and mounting the above-created directory
+
+   `docker run -d -e USOCIAL_JOB=WEB -p 8448:5000 -v $(pwd)/usocial-instance:/instance --name usocial --rm -t ghcr.io/ibz/usocial:master-buster`
+1. Access usocial using your web browser
+
+   [localhost:8448](http://localhost:8448)
