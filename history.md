@@ -20,8 +20,8 @@ This is the first public release on the [Citadel](https://github.com/runcitadel)
 Changes:
 
 * Send boosts and streaming contributions to podcast creators (that use the `podcast:value` tag)
-* Save play position (per-episode!), so you always listen from where you left off
-* Save volume
+* Save the play position (per-episode!) in the database, so you always listen from where you left off (even if you're using multiple devices!)
+* Save volume in the database
 * Fetch feeds automatically in the background
 * Dark mode
 * Lots of fixes and UI improvements
