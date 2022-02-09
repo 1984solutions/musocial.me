@@ -21,7 +21,7 @@ layout: default
 <h1 id="v0.1.0">v0.1.0 (Runs on ARMs)</h1>
 <small>2022-01-12</small>
 
-This is the first time **usocial** runs on **an ARM-based machine** (my [Umbrel](https://getumbrel.com/) node, running on a Raspberry Pi 4).
+This is the first time **usocial** runs on **an ARM-based machine** (my [Umbrel](https://getumbrel.com/) running on a Raspberry Pi 4). Before this I was running it directly on my laptop.
 
 Features:
 
