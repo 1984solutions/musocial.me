@@ -3,6 +3,11 @@ title: History
 layout: default
 ---
 
+<h1 id="v0.1.2">v0.1.2</h1>
+<small>2022-02-09</small>
+
+* A couple of bugfixes in the way we deal with podcast feeds.
+
 <h1 id="v0.1.1">v0.1.1 (Booster)</h1>
 <small>2022-02-04</small>
 
