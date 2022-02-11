@@ -3,6 +3,15 @@ title: History
 layout: default
 ---
 
+<h1 id="v0.1.3">v0.1.3</h1>
+<small>2022-02-11</small>
+
+Small release that brings back the "all items" feed (but it now correctly works when you have both *podcasts* and *blogs*) and brings back the feature that showed the feed type.
+
+Also:
+
+* Case insensitive sorting of feeds
+
 <h1 id="v0.1.2">v0.1.2</h1>
 <small>2022-02-09</small>
 
