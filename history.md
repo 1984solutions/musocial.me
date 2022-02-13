@@ -3,6 +3,15 @@ title: History
 layout: default
 ---
 
+<h1 id="v0.1.4">v0.1.4</h1>
+<small>2022-02-13</small>
+
+Bug fixes in the feeed parser:
+
+* Fix crash on dates out of range (items from year 0!)
+* When a feed updates the `podcast:value` or `podcast:recipient` tags, try to update the existing objects rather than delete and re-add
+* In general, do not crash the feed fetcher on *any* exception when parsing *one* feed. Just mark that one as failed
+
 <h1 id="v0.1.3">v0.1.3</h1>
 <small>2022-02-11</small>
 
