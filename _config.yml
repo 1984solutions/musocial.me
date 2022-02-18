@@ -7,5 +7,18 @@ baseurl: ""
 github:
   repository_url: https://github.com/ibz/usocial
   repository_nwo: ibz/usocial
+author:
+  name: Ioan Bizău
+  url: https://ibz.me
+  email: usocial@ibz.me
 plugins:
   - jekyll-sitemap
+
+permalink: /posts/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
