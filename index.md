@@ -12,7 +12,7 @@ The podcast client and feed reader for your personal server. With Lightning Netw
 ## Integrations
 
 * Search podcasts from [Podcast Index](https://podcastindex.org)
-* Support for the [`podcast:value`](https://github.com/Podcastindex-org/podcast-namespace/blob/main/value/value.md) tag, sending Bitcoin payments to podcast creators over the Lightning Network
+* **Podcasting 2.0**: support for the [`podcast:value`](https://github.com/Podcastindex-org/podcast-namespace/blob/main/value/value.md) tag, sending Bitcoin payments to podcast creators over the Lightning Network
 * Fever-like [API](/api)
 
 ## Installation
