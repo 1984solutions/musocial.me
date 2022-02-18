@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: usocial
 logo: /assets/img/logo.svg
 description: "Read. Listen. Pay back."
+url: "https://usocial.me"
 baseurl: ""
 github:
   repository_url: https://github.com/ibz/usocial
