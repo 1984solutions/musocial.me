@@ -3,6 +3,14 @@ title: History
 layout: default
 ---
 
+<h1 id="v0.1.5">v0.1.5</h1>
+<small>2022-02-28</small>
+
+* Show "playing" feeds.
+* Improve layout on mobile.
+* Many bug fixes in the feed parser.
+* Bug fix in playing multiple podcast items continuously.
+
 <h1 id="v0.1.4">v0.1.4</h1>
 <small>2022-02-13</small>
 
