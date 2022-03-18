@@ -3,6 +3,13 @@ title: History
 layout: default
 ---
 
+<h1 id="v0.1.6">v0.1.6</h1>
+<small>2022-03-18</small>
+
+* Get the `value` tags from **Podcast Index** if available, since some podcasts do not include those in the feed itself
+* Deal with relative URLs in feeds and a bunch of other bug fixes
+* Feed parsing was extrcted to a separate project: [`feedparsley`](http://github.com/ibz/feedparsley)
+
 <h1 id="v0.1.5">v0.1.5</h1>
 <small>2022-02-28</small>
 
