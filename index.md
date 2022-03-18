@@ -1,6 +1,6 @@
 # usocial
 
-The podcast client and feed reader for your personal server. With Lightning Network support.
+The podcast client and feed reader for your personal server. With Value 4 Value and Lightning Network support.
 
 ## Features
 
