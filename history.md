@@ -3,6 +3,11 @@ title: History
 layout: default
 ---
 
+<h1 id="v0.1.7">v0.1.7</h1>
+<small>2022-04-13</small>
+
+* Fix crash on fresh install of the previous version
+
 <h1 id="v0.1.6">v0.1.6</h1>
 <small>2022-03-18</small>
 
